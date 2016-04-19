@@ -1,0 +1,23 @@
+PODS:
+  - hpple (0.2.0)
+  - Realm (0.98.8):
+    - Realm/Headers (= 0.98.8)
+  - Realm/Headers (0.98.8)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+
+DEPENDENCIES:
+  - hpple (~> 0.2.0)
+  - Realm
+  - Realm/Headers
+  - SDWebImage (~> 3.7)
+
+SPEC CHECKSUMS:
+  hpple: 3b765f96fc2cd56ad1a49aef6f7be5cb2aa64b57
+  Realm: 0e293bb62999730599efc3048896bbd4f2e43bcd
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+
+PODFILE CHECKSUM: 9670af8d1a82471d6e62f66e94697d6953145d2c
+
+COCOAPODS: 1.0.0.beta.3
